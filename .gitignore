@@ -1,0 +1,7 @@
+# Test folders
+test/*
+*/test/*
+
+# Temporary notebook data
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
