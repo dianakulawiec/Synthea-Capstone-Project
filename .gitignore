@@ -5,3 +5,7 @@ test/*
 # Temporary notebook data
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
+
+# Data folders
+used_data/*
+unused_data/*
