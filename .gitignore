@@ -9,6 +9,15 @@ test/*
 # Data folders
 used_data/*
 unused_data/*
+data/allergies.csv
+data/encounters.csv
+data/immunizations.csv
+data/medications.csv
+data/observations.csv
+data/patients.csv
+data/procedures.csv
+
 
 # Temp data
 ~*
+
