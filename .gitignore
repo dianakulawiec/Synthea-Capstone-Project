@@ -9,3 +9,6 @@ test/*
 # Data folders
 used_data/*
 unused_data/*
+
+# Temp data
+~*
