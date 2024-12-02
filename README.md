@@ -1,7 +1,7 @@
 # Synthea Capstone Project
 In this capstone project for the Stony Brook University Data Science Bootcamp program, a predictive model of yearly medical encounter costs was developed. 18 unique healthcare related datasets with information on 5000 synthetic patients were generated from [Synthea](https://github.com/synthetichealth/synthea), a patient population simulator. 
 
-A final dataset for modeling was constructed by combining several types of healthcare records related to yearly medical encounter costs, medical observations/measurements,. The data was cleaned and exploratory data analysis was performed to discover underlying trends in the data. Additionally, various data imputation techniques were assessed to address missing values.
+A final dataset for modeling was constructed by combining several types of healthcare records including yearly medical encounter costs, observations/measurements, procedures, medications, and patient demographics. The data was cleaned and exploratory data analysis was performed to discover underlying trends in the data. Additionally, various data imputation techniques were assessed to address missing values.
 
 Once the dataset was ready, the data was split into training and testing sets and numerous machine learning models were developed, including dummy regression, linear regression, ridge regression, lasso regression, random forest, and gradient boosting. The performance of these models were analyzed by comparing R-squared, mean absolute error (MAE), and mean squared error values (MSE). The random forest model was selected as the final model, and its performance was assessed on the entire dataset.
 
