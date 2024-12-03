@@ -31,7 +31,7 @@ Some of the most important features used by this model to predict yearly medical
 ## How to Run
 1. Clone/download zip of repository.
 1. Extract `data.7z` into `/data` folder.
-1. Ensure the following dependencies are installed from the `requirements.txt` file.
+1. Ensure that the latest version of Anaconda is installed.
 1. Run the following files in order:
    1. [Synthea_data_wrangling.ipynb](source/Synthea_data_wrangling.ipynb)
    1. [Synthea_EDA.ipynb](source/Synthea_EDA.ipynb)
