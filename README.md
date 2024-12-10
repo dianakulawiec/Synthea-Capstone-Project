@@ -19,12 +19,12 @@ Random Forest Model Performance Compared to Dummy Regressor
 | Training MSE | 63,764,250.97 | 1642.05% |
 | Testing MSE | 410,288,724.39 | 174.13% |   
 
-Random Forest Model Performance on Final Dataset
+Random Forest Model Performance on Dataset using Cross Validation
 | Metric | Value |
 | ----------- | ----------- |
-| R squared | 0.9495 |
-| MAE | 2,379.54 |
-| MSE | 60,360,773.59 |
+| Average R squared | 0.6649 |
+| Average MAE | 6,583.35 |
+| Average MSE | 420,119,391.50 |
 
 Some of the most important features used by this model to predict yearly medical costs include number of doctor's visits, number of medical procedures performed, DALY (disability-adjusted life year, a metric used to measure overall disease burden of a population), BMI (body mass index), pain severity, age, and number/cost of medications.
 
